@@ -187,19 +187,19 @@ p{
     background-color: #153488;
 }
  /* Apply css for hobbies */
-.about .Hobbies ul {
+.hobbies ul {
     list-style: none;
     display: grid;
     grid-template-columns: repeat(4,1fr);
 }
 
-.about .Hobbies ul li {
+.hobbies ul li {
     color: #153488;
     font-weight: 500;
     margin: 10px;
 }
 
-.about .Hobbies ul li .fa-solid {
+.hobbies ul li .fa-solid {
     color: brown;
     font-size: 18px;
     width: 20px;
